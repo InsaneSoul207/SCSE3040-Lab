@@ -3,3 +3,5 @@ venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+gitlog.png
+selfcheck.png
